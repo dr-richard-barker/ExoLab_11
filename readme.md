@@ -10,6 +10,21 @@ The plant is illuminated with white LED lights in a day-night cycle, simulating 
 An AstroBotany calibration sticker is affixed to the wall behind the sample. 
 https://astrobotany.com/product/airi-bio-imaging-spectrum-5cm/
 
+
+Meta-data summary 
+![image](https://github.com/user-attachments/assets/da1e017b-71a0-4d3a-9dc8-cc77d360c69f)
+Figure 1: illustrates the temporal dynamics of several key environmental parameters over a period of approximately 10,000 minutes. The data were collected at discrete intervals, indicated by the points on the plot, and are presented as a function of time in minutes.
+
+Key Observations:
+
+CO2 Concentration: A prominent, quasi-linear increase in CO2 concentration is observed from the beginning of the observation period until approximately 19,000 minutes. The concentration then appears to plateau, exhibiting a slight decline towards the end of the measurement period. This suggests a potential shift in the CO2 source/sink dynamics within the observed environment.
+Humidity: Relative humidity demonstrates a fluctuating pattern, exhibiting multiple rapid increases followed by gradual decreases. These fluctuations suggest periodic shifts in moisture input or environmental conditions affecting the local humidity.
+Humidity Temperature: This parameter appears to mirror the fluctuations observed in the humidity data, indicating a strong correlation between temperature and relative humidity.
+Pressure: Atmospheric pressure exhibits relatively minor variations throughout the observed time frame, suggesting a stable ambient environment with respect to pressure changes.
+Pressure Temperature: Similar to pressure, the temperature associated with pressure measurements remains relatively constant, with only a slight increase observed towards the end of the measurement period.
+F Flux and I Lux: Both F Flux and I Lux demonstrate a low variability and remain near zero throughout the observation period. This suggests minimal radiative flux or negligible light intensity within the measured environment.
+
+
 This sticker serves two important purposes:
 
 1. It provides color references to ensure accurate color representation in the images.
@@ -18,6 +33,7 @@ This sticker serves two important purposes:
 The ExoLab-11 mission, scheduled for launch in September 2024 aboard SpaceX-31 cargo resupply, aims to study the model legume Medicago truncatula in microgravity[^1][^6]. This research will provide valuable insights into legume biology, symbiotic nitrogen fixation, and plant genetics in space conditions[^6]. The experiment is designed to investigate how the microgravity environment alters plant physiology, which is crucial for understanding plant growth in space and developing bioregenerative life support systems for future space missions[^5].
 
 ![alt text](image.png)
+Figure2: Illustation of exolab hardware.
 
 <div style="text-align: center">⁂</div>
 
