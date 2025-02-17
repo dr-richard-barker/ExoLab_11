@@ -18,4 +18,6 @@ We don't have any clear guidelines for how others can contribute to the project.
 Include information about the project's license.
 
 ## Acknowledgments
-Credits to those who have contributed to the project
+
+Chris Lahtz, Ted Tagami, Marshal Porterfield, Gil Cauthorn, and Richard Barker  
+TANGO,  Magntiude.io and AstroBotany.com
