@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 # "This series of images was taken on the ISS in the space TANGO incubator as part of the Exolab11 mission.
 
 ---
