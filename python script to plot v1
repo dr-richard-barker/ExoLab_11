@@ -1,0 +1,27 @@
+# Importing necessary libraries for plotting
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Setting the style for the plot
+sns.set(style='whitegrid')
+
+# Plotting the line chart for the specified columns against time_minutes
+plt.figure(figsize=(14, 8))
+plt.plot(df['time_minutes'], df['c_co2'], label='CO2 Concentration', marker='o')
+plt.plot(df['time_minutes'], df['c_hum'], label='Humidity', marker='o')
+plt.plot(df['time_minutes'], df['c_hum_temp'], label='Humidity Temperature', marker='o')
+plt.plot(df['time_minutes'], df['c_pres'], label='Pressure', marker='o')
+plt.plot(df['time_minutes'], df['c_pres_temp'], label='Pressure Temperature', marker='o')
+plt.plot(df['time_minutes'], df['f_lux'], label='F Lux', marker='o')
+plt.plot(df['time_minutes'], df['i_lux'], label='I Lux', marker='o')
+
+# Adding titles and labels
+plt.title('Changes in Environmental Parameters Over Time (in Minutes)', fontsize=16)
+plt.xlabel('Time (Minutes)', fontsize=14)
+plt.ylabel('Values', fontsize=14)
+plt.legend()
+plt.grid(True)
+
+# Saving the plot as an HTML file
+plt.savefig('environmental_parameters_over_time.png')
+plt.show()
