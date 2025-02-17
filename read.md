@@ -1,6 +1,6 @@
 <img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
 
-# "This series of images was taken on the ISS in the space TANGO incnubator as part of the Exolab11 mission.
+# "This series of images was taken on the ISS in the space TANGO incubator as part of the Exolab11 mission.
 
 ---
 This series of images was taken on the International Space Station (ISS) in the TANGO incubator as part of the ExoLab-11 mission[^1][^6]. The images show a single Medicago truncatula plant growing in microgravity conditions aboard the ISS[^6].
